@@ -1,0 +1,618 @@
+This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.6) (preloaded format=pdflatex 2010.1.9)  30 MAR 2015 12:32
+entering extended mode
+**cr-vub
+(cr-vub.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, loaded.
+(c:\texmf\tex\latex\base\article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(c:\texmf\tex\latex\base\size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\nick\tex-extras\tex\latex\packages\nvefoil.sty
+Package: nvefoil 2013/01/16 Transparancy facility version 2.1/6 NvE 16-jan-2013
+
+
+(c:\texmf\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\nick\tex-extras\tex\latex\packages\nvecmd.sty
+Package: nvecmd 2011/01/15 Private commands version 1.0/17 NvE 15-jan-2011
+
+(c:\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(c:\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (c:\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) (c:\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(c:\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(c:\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(c:\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(c:\texmf\tex\generic\dvips\colordvi.sty)
+(c:\texmf\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+ (c:\texmf\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(c:\texmf\tex\latex\graphics\pdftex.def
+File: pdftex.def 2007/06/12 v0.04h Graphics/color for pdfTeX
+\Gread@gobject=\count99
+)) (c:\texmf\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+(c:\texmf\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (c:\texmf\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(c:\texmf\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+Package color Info: Redefining color yellow on input line 220.
+Package color Info: Redefining color cyan on input line 221.
+Package color Info: Redefining color magenta on input line 222.
+\slashbox=\box28
+LaTeX Font Info:    Try loading font information for U+msa on input line 243.
+ (c:\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 243.
+
+(c:\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 243.
+ (c:\texmf\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 243.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 243.
+\Slashbox=\box29
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 244.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 244.
+)
+(c:\texmf\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(c:\texmf\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(c:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ (c:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (c:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(c:\texmf\tex\latex\rotating\rotating.sty
+Package: rotating 1997/09/26 v2.13 Rotation package
+\c@r@tfl@t=\count100
+\rot@float@box=\box30
+)
+(C:\nick\tex-extras\tex\latex\packages\floatfig.sty
+\figbox=\box31
+\pagebox=\box32
+\ffigcount=\count101
+\fftest=\count102
+\hangcount=\count103
+\nosuccesstryfig=\count104
+\figgutter=\dimen116
+\htdone=\dimen117
+\pageht=\dimen118
+\startpageht=\dimen119
+\outputpretest=\toks20
+)
+(c:\texmf\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen120
+\WF@size=\dimen121
+\c@WF@wrappedlines=\count105
+\WF@box=\box33
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+) (c:\texmf\tex\latex\ltxmisc\shadow.sty
+Package: shadow 2003/02/19 v1.3 shadow boxes (M.O.)
+\txtwdth=\dimen122
+\sht=\dimen123
+\shw=\dimen124
+\shbox=\box34
+\sboxsep=\dimen125
+\sboxrule=\dimen126
+\sdim=\dimen127
+)
+\Ftitle=\box35
+\oldsrule=\dimen128
+\oldssep=\dimen129
+\oldsdim=\dimen130
+\oldfrule=\dimen131
+\oldfsep=\dimen132
+) (cr-vub.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (c:\texmf\tex\context\base\supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen133
+\scratchbox=\box36
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen134
+\MPnumerator=\count110
+\everyMPtoPDFconversion=\toks22
+) <vublogo.jpg, id=1, 1683.28876pt x 532.99126pt>
+File: vublogo.jpg Graphic file (type jpg)
+ <use vublogo.jpg>
+<iihelogo.jpg, id=2, 170.91855pt x 91.7829pt>
+File: iihelogo.jpg Graphic file (type jpg)
+ <use iihelogo.jpg> (cr-vub.toc)
+\tf@toc=\write3
+
+[1
+
+{psfonts.map} <C:/nick/tex-extras/tex/latex/misc/vublogo.jpg> <C:/nick/tex-extr
+as/tex/latex/misc/iihelogo.jpg>] (cosrays.tex
+Cosmic rays
+<cosray.jpg, id=9, 996.72375pt x 1514.65875pt>
+File: cosray.jpg Graphic file (type jpg)
+ <use cosray.jpg>
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 10.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 10.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/sbc/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 10.
+
+[1
+
+ <cosray.jpg>] <cr-low-e.png, id=15, 292.9344pt x 340.1508pt>
+File: cr-low-e.png Graphic file (type png)
+
+<use cr-low-e.png> [2 <cr-low-e.png>]
+<cr-all-scaled27.png, id=21, 276.5532pt x 238.2501pt>
+File: cr-all-scaled27.png Graphic file (type png)
+
+<use cr-all-scaled27.png>
+Overfull \hbox (5.39569pt too wide) in paragraph at lines 64--65
+[][][][][][] 
+ []
+
+[3 <cr-all-scaled27.png>] [4
+
+] <crab.jpg, id=29, 217.62816pt x 219.26445pt>
+File: crab.jpg Graphic file (type jpg)
+
+<use crab.jpg> [5
+
+ <crab.jpg>] <Cas_A.jpg, id=33, 514.0806pt x 514.0806pt>
+File: Cas_A.jpg Graphic file (type jpg)
+
+<use Cas_A.jpg> [6 <Cas_A.jpg>]
+File: cr-all-scaled27.png Graphic file (type png)
+ <use cr-all-scaled27.png>
+Overfull \hbox (16.43965pt too wide) in paragraph at lines 144--145
+[][][][][][][] 
+ []
+
+[7
+
+]) (sources.tex [8
+
+]
+Possible high-energy sources
+<M87jet.jpg, id=44, 402.50375pt x 342.27875pt>
+File: M87jet.jpg Graphic file (type jpg)
+ <use M87jet.jpg>
+<grb.jpg, id=45, 60.225pt x 58.7796pt>
+File: grb.jpg Graphic file (type jpg)
+ <use grb.jpg>
+<grb2.jpg, id=46, 3513.125pt x 2007.5pt>
+File: grb2.jpg Graphic file (type jpg)
+ <use grb2.jpg> [9
+
+ <M87jet.jpg> <grb.jpg> <grb2.jpg>] <agn-1.png, id=50, 195.129pt x 227.28915pt>
+File: agn-1.png Graphic file (type png)
+ <use agn-1.png>
+[10 <agn-1.png (PNG copy)>] <jet.png, id=55, 431.6928pt x 648.5028pt>
+File: jet.png Graphic file (type png)
+
+<use jet.png> <grb-engine2.png, id=56, 453.8556pt x 407.6028pt>
+File: grb-engine2.png Graphic file (type png)
+
+<use grb-engine2.png>) (gamma-hunt.tex [11 <jet.png (PNG copy)> <grb-engine2.pn
+g (PNG copy)>]
+Observation of high-energy photons
+<cgro.jpg, id=60, 306.4248pt x 212.9556pt>
+File: cgro.jpg Graphic file (type jpg)
+ <use cgro.jpg> [12 <cgro.jpg>]
+<whipple.jpg, id=65, 402.50375pt x 350.30875pt>
+File: whipple.jpg Graphic file (type jpg)
+ <use whipple.jpg> [13 <whipple.jpg>] [14
+
+] <batse-109.png, id=72, 569.0058pt x 665.3658pt>
+File: batse-109.png Graphic file (type png)
+ <use batse-109.png>
+[15
+
+ <batse-109.png (PNG copy)>]
+<batse-logt90.png, id=76, 569.0058pt x 372.4314pt>
+File: batse-logt90.png Graphic file (type png)
+ <use batse-logt90.png>
+[16
+
+ <batse-logt90.png (PNG copy)>]
+<grb-shell3.png, id=80, 351.2322pt x 506.8536pt>
+File: grb-shell3.png Graphic file (type png)
+ <use grb-shell3.png> [17
+
+ <grb-shell3.png (PNG copy)>] <grb-shell1.png, id=84, 351.2322pt x 439.8834pt>
+File: grb-shell1.png Graphic file (type png)
+
+<use grb-shell1.png> <grb-shell2.png, id=85, 351.2322pt x 450.483pt>
+File: grb-shell2.png Graphic file (type png)
+
+<use grb-shell2.png> [18 <grb-shell1.png (PNG copy)> <grb-shell2.png (PNG copy)
+>] <grbmap.png, id=90, 525.8847pt x 299.1978pt>
+File: grbmap.png Graphic file (type png)
+ <use grbmap.png>
+<batse-loge-z.png, id=91, 698.61pt x 468.75125pt>
+File: batse-loge-z.png Graphic file (type png)
+ <use batse-loge-z.png>
+[19
+
+ <grbmap.png (PNG copy)> <batse-loge-z.png (PNG copy)>]
+<batse-n-s.png, id=95, 281.853pt x 190.311pt>
+File: batse-n-s.png Graphic file (type png)
+ <use batse-n-s.png> [20 <batse-n-s.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
+
+ []
+
+[21
+
+]) (cr-link.tex
+Link with cosmic rays
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+[22
+
+
+] <app.jpg, id=105, 160.1985pt x 91.542pt>
+File: app.jpg Graphic file (type jpg)
+ <use app.jpg> [23
+
+ <app.jpg>])
+(nu-hunt.tex
+Hunting for Cosmic Neutrino sources
+File: grb-engine2.png Graphic file (type png)
+<use grb-engine2.png> [24
+
+
+] <icecube-collab.jpg, id=113, 513.92pt x 350.5095pt>
+File: icecube-collab.jpg Graphic file (type jpg)
+
+<use icecube-collab.jpg> [25
+
+ <icecube-collab.jpg>]
+<earth-shield.png, id=117, 294.8616pt x 629.2308pt>
+File: earth-shield.png Graphic file (type png)
+ <use earth-shield.png>
+<pole-view.jpg, id=118, 5018.75pt x 2922.92pt>
+File: pole-view.jpg Graphic file (type jpg)
+ <use pole-view.jpg> [26
+
+ <earth-shield.png (PNG copy)> <pole-view.jpg>]
+<ic86-dc.png, id=122, 224.037pt x 194.4063pt>
+File: ic86-dc.png Graphic file (type png)
+ <use ic86-dc.png> [27
+
+ <ic86-dc.png>] <icetop-snow.png, id=126, 942.52126pt x 710.655pt>
+File: icetop-snow.png Graphic file (type png)
+ <use icetop-snow.png>
+[28
+
+ <icetop-snow.png (PNG copy)>]
+<cr-shower.jpg, id=130, 301.125pt x 280.04625pt>
+File: cr-shower.jpg Graphic file (type jpg)
+ <use cr-shower.jpg> [29
+
+ <cr-shower.jpg>] <hole2.jpg, id=134, 531.9875pt x 298.11375pt>
+File: hole2.jpg Graphic file (type jpg)
+ <use hole2.jpg>
+[30
+
+ <hole2.jpg>] <dom.jpg, id=139, 165.61874pt x 164.11313pt>
+File: dom.jpg Graphic file (type jpg)
+ <use dom.jpg>
+<event.jpg, id=140, 198.7425pt x 301.125pt>
+File: event.jpg Graphic file (type jpg)
+ <use event.jpg>
+<cone.jpg, id=141, 132.495pt x 131.0496pt>
+File: cone.jpg Graphic file (type jpg)
+ <use cone.jpg>
+Overfull \hbox (8.8437pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+[31
+
+ <dom.jpg> <event.jpg> <cone.jpg>]
+<moon-shadow1.png, id=145, 1088.065pt x 599.23875pt>
+File: moon-shadow1.png Graphic file (type png)
+ <use moon-shadow1.png>
+<moon-shadow2.png, id=146, 585.18625pt x 416.55624pt>
+File: moon-shadow2.png Graphic file (type png)
+ <use moon-shadow2.png>
+[32
+
+ <moon-shadow1.png> <moon-shadow2.png>]
+<cr-anisotropy.png, id=150, 1056.94875pt x 691.58376pt>
+File: cr-anisotropy.png Graphic file (type png)
+
+<use cr-anisotropy.png> [33 <cr-anisotropy.png (PNG copy)>]
+<ic79+59+40-skymap.png, id=154, 950.55125pt x 667.49374pt>
+File: ic79+59+40-skymap.png Graphic file (type png)
+
+<use ic79+59+40-skymap.png>) (transients.tex [34
+
+ <ic79+59+40-skymap.png (PNG copy)>]
+Transient cosmic sources
+<atm-bkg.png, id=158, 415.5525pt x 629.35126pt>
+File: atm-bkg.png Graphic file (type png)
+ <use atm-bkg.png>
+<ic59+40-eff-area.png, id=159, 924.45375pt x 701.62125pt>
+File: ic59+40-eff-area.png Graphic file (type png)
+
+<use ic59+40-eff-area.png> [35
+
+ <atm-bkg.png (PNG copy)> <ic59+40-eff-area.png (PNG copy)>] <ic59+40-grb-limit
+2.png, id=163, 722.7pt x 433.62pt>
+File: ic59+40-grb-limit2.png Graphic file (type png)
+
+<use ic59+40-grb-limit2.png>) (diffuse.tex [36
+
+ <ic59+40-grb-limit2.png>]
+Search for a diffuse cosmic $\nu $ flux
+<atm-nu.png, id=169, 612.2875pt x 428.60126pt>
+File: atm-nu.png Graphic file (type png)
+ <use atm-nu.png> [37
+
+ <atm-nu.png (PNG copy)>] <bert.png, id=173, 772.8875pt x 705.63625pt>
+File: bert.png Graphic file (type png)
+ <use bert.png>
+<ernie.png, id=174, 773.89125pt x 704.6325pt>
+File: ernie.png Graphic file (type png)
+ <use ernie.png> [38 <bert.png> <ernie.png>] <veto.png, id=178, 1118.1775pt x 5
+92.2125pt>
+File: veto.png Graphic file (type png)
+ <use veto.png> [39
+
+ <veto.png (PNG copy)>] <kermit.png, id=182, 769.87625pt x 705.63625pt>
+File: kermit.png Graphic file (type png)
+
+<use kermit.png> <miss-piggy.png, id=183, 771.88374pt x 704.6325pt>
+File: miss-piggy.png Graphic file (type png)
+
+<use miss-piggy.png> [40
+
+ <kermit.png> <miss-piggy.png>]
+<dr-strangepork.png, id=187, 770.88pt x 704.6325pt>
+File: dr-strangepork.png Graphic file (type png)
+ <use dr-strangepork.png>
+<gonzo-the-great.png, id=188, 771.88374pt x 705.63625pt>
+File: gonzo-the-great.png Graphic file (type png)
+
+<use gonzo-the-great.png> [41
+
+ <dr-strangepork.png> <gonzo-the-great.png>]
+<big-bird.png, id=192, 652.4375pt x 598.235pt>
+File: big-bird.png Graphic file (type png)
+ <use big-bird.png>
+<big-bird-photo.jpg, id=193, 1505.625pt x 2035.605pt>
+File: big-bird-photo.jpg Graphic file (type jpg)
+ <use big-bird-photo.jpg>
+[42
+
+ <big-bird.png (PNG copy)> <big-bird-photo.jpg>]
+<hese-e.png, id=198, 1142.2675pt x 791.95876pt>
+File: hese-e.png Graphic file (type png)
+ <use hese-e.png>
+<hese-decl-vs-e.png, id=199, 1096.095pt x 731.73375pt>
+File: hese-decl-vs-e.png Graphic file (type png)
+
+<use hese-decl-vs-e.png>
+Overfull \hbox (12.0658pt too wide) in paragraph at lines 113--115
+[] [] 
+ []
+
+[43
+
+ <hese-e.png (PNG copy)> <hese-decl-vs-e.png (PNG copy)>]
+<breakthrough.png, id=203, 485.1726pt x 529.4982pt>
+File: breakthrough.png Graphic file (type png)
+ <use breakthrough.png>
+[44
+
+ <breakthrough.png (PNG copy)>]
+<mese.png, id=207, 1142.2675pt x 422.57875pt>
+File: mese.png Graphic file (type png)
+ <use mese.png> [45
+
+ <mese.png (PNG copy)>] <hese-skymap-gal.png, id=211, 1110.1475pt x 655.44875pt
+>
+File: hese-skymap-gal.png Graphic file (type png)
+
+<use hese-skymap-gal.png> [46
+
+ <hese-skymap-gal.png (PNG copy)>]
+File: cr-anisotropy.png Graphic file (type png)
+
+<use cr-anisotropy.png>
+<hese-skymap-equ.png, id=215, 1137.24875pt x 670.505pt>
+File: hese-skymap-equ.png Graphic file (type png)
+
+<use hese-skymap-equ.png>) (outlook.tex [47
+
+ <hese-skymap-equ.png (PNG copy)>]
+Outlook for Astroparticle Physics
+<muppets.jpg, id=219, 1027.84pt x 770.88pt>
+File: muppets.jpg Graphic file (type jpg)
+ <use muppets.jpg>) [48
+
+ <muppets.jpg>] (cr-vub.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3149 strings out of 95282
+ 34395 string characters out of 1185182
+ 86214 words of memory out of 1085818
+ 5926 multiletter control sequences out of 60000
+ 23027 words of font info for 91 fonts, out of 1000000 for 2000
+ 14 hyphenation exceptions out of 8191
+ 43i,16n,45p,220b,296s stack positions out of 5000i,500n,10000p,200000b,32768s
+<c:/texmf/fonts/type1/bluesky/cm/cmbsy10.pfb><c:/texmf/fonts/type1/bluesky/cm
+/cmbx12.pfb><c:/texmf/fonts/type1/bluesky/cm/cmex10.pfb><c:/texmf/fonts/type1/b
+luesky/cm/cmmib10.pfb><c:/texmf/fonts/type1/bluesky/cm/cmssbx10.pfb><c:/texmf/f
+onts/type1/bluesky/cm/cmssdc10.pfb><c:/texmf/fonts/type1/bluesky/cm/cmsy10.pfb>
+<c:/texmf/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on cr-vub.pdf (49 pages, 10240090 bytes).
+PDF statistics:
+ 252 PDF objects out of 300000 (max. 8388607)
+ 0 named destinations out of 300000 (max. 131072)
+ 291 words of extra memory for PDF output out of 65536 (max. 10000000)
+
