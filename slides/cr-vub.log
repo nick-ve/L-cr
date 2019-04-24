@@ -1,14 +1,13 @@
-This is pdfTeX, Version 3.141592-1.40.4 (MiKTeX 2.6) (preloaded format=pdflatex 2010.1.9)  30 MAR 2015 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.15)  24 APR 2019 17:02
 entering extended mode
-**cr-vub
+**./cr-vub.tex
 (cr-vub.tex
-LaTeX2e <2005/12/01>
-Babel <v3.8h> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman, ngerman, french, loaded.
-(c:\texmf\tex\latex\base\article.cls
-Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-(c:\texmf\tex\latex\base\size10.clo
-File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -26,45 +25,47 @@ File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 Package: nvefoil 2013/01/16 Transparancy facility version 2.1/6 NvE 16-jan-2013
 
 
-(c:\texmf\tex\latex\base\ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (C:\nick\tex-extras\tex\latex\packages\nvecmd.sty
 Package: nvecmd 2011/01/15 Private commands version 1.0/17 NvE 15-jan-2011
 
-(c:\texmf\tex\latex\amsmath\amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(c:\texmf\tex\latex\amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01
- (c:\texmf\tex\latex\amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
-)) (c:\texmf\tex\latex\amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-(c:\texmf\tex\latex\amsmath\amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count88
 \leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count90
 \DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count92
 \c@MaxMatrixCols=\count93
 \dotsspace@=\muskip10
@@ -85,61 +86,74 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-(c:\texmf\tex\latex\amsfonts\amssymb.sty
-Package: amssymb 2002/01/22 v2.2d
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:\texmf\tex\latex\amsfonts\amsfonts.sty
-Package: amsfonts 2001/10/25 v2.2f
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:\texmf\tex\generic\dvips\colordvi.sty)
-(c:\texmf\tex\latex\graphics\color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
- (c:\texmf\tex\latex\00miktex\color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
+("C:\Program Files\MiKTeX 2.9\tex\generic\dvips\colordvi.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(c:\texmf\tex\latex\graphics\pdftex.def
-File: pdftex.def 2007/06/12 v0.04h Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count99
-)) (c:\texmf\tex\latex\psnfss\pifont.sty
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
-(c:\texmf\tex\latex\psnfss\upzd.fd
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
- (c:\texmf\tex\latex\psnfss\upsy.fd
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
-(c:\texmf\tex\latex\base\latexsym.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
-(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
 Package color Info: Redefining color yellow on input line 220.
 Package color Info: Redefining color cyan on input line 221.
 Package color Info: Redefining color magenta on input line 222.
 \slashbox=\box28
 LaTeX Font Info:    Try loading font information for U+msa on input line 243.
- (c:\texmf\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 243.
 
-(c:\texmf\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 243.
- (c:\texmf\tex\latex\base\ulasy.fd
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
@@ -152,7 +166,8 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 244.
 )
-(c:\texmf\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -163,24 +178,26 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(c:\texmf\tex\latex\graphics\epsfig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
-(c:\texmf\tex\latex\graphics\graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:\texmf\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(c:\texmf\tex\latex\graphics\graphics.sty
-Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
- (c:\texmf\tex\latex\graphics\trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) (c:\texmf\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-Package graphics Info: Driver file: pdftex.def on input line 90.
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
@@ -188,48 +205,53 @@ Package graphics Info: Driver file: pdftex.def on input line 90.
 \epsfxsize=\dimen114
 \epsfysize=\dimen115
 )
-(c:\texmf\tex\latex\rotating\rotating.sty
-Package: rotating 1997/09/26 v2.13 Rotation package
-\c@r@tfl@t=\count100
-\rot@float@box=\box30
-)
-(C:\nick\tex-extras\tex\latex\packages\floatfig.sty
-\figbox=\box31
-\pagebox=\box32
-\ffigcount=\count101
-\fftest=\count102
-\hangcount=\count103
-\nosuccesstryfig=\count104
-\figgutter=\dimen116
-\htdone=\dimen117
-\pageht=\dimen118
-\startpageht=\dimen119
+(C:\nick\tex-extras\tex\latex\packages\rotating.sty
+Style option: rotating.sty, v1.7 <93/5/21> (SPQR / LMB)
+\rot@box=\box30
+\rot@tempbox=\box31
+\rot@temp=\dimen116
+\rot@width=\dimen117
+\rot@height=\dimen118
+\rot@depth=\dimen119
+\rot@right=\dimen120
+\rot@left=\dimen121
+\rot@angle=\count100
+\rot@count=\count101
+\rot@circle=\count102
+) (C:\nick\tex-extras\tex\latex\packages\floatfig.sty
+\figbox=\box32
+\pagebox=\box33
+\ffigcount=\count103
+\fftest=\count104
+\hangcount=\count105
+\nosuccesstryfig=\count106
+\figgutter=\dimen122
+\htdone=\dimen123
+\pageht=\dimen124
+\startpageht=\dimen125
 \outputpretest=\toks20
 )
-(c:\texmf\tex\latex\wrapfig\wrapfig.sty
-\wrapoverhang=\dimen120
-\WF@size=\dimen121
-\c@WF@wrappedlines=\count105
-\WF@box=\box33
-\WF@everypar=\toks21
-Package: wrapfig 2003/01/31  v 3.6
-) (c:\texmf\tex\latex\ltxmisc\shadow.sty
-Package: shadow 2003/02/19 v1.3 shadow boxes (M.O.)
-\txtwdth=\dimen122
-\sht=\dimen123
-\shw=\dimen124
+(C:\nick\tex-extras\tex\latex\packages\wrapfig.sty
+\WF@wrappedlines=\count107
+)
+(C:\nick\tex-extras\tex\latex\packages\shadow.sty
+shadow.sty -- version 1.0/1 NVE 02-apr-1996 22:53
+\sht=\dimen126
+\shw=\dimen127
 \shbox=\box34
-\sboxsep=\dimen125
-\sboxrule=\dimen126
-\sdim=\dimen127
+\sboxsep=\dimen128
+\sboxrule=\dimen129
+\sdim=\dimen130
 )
 \Ftitle=\box35
-\oldsrule=\dimen128
-\oldssep=\dimen129
-\oldsdim=\dimen130
-\oldfrule=\dimen131
-\oldfsep=\dimen132
+\oldsrule=\dimen131
+\oldssep=\dimen132
+\oldsdim=\dimen133
+\oldfrule=\dimen134
+\oldfsep=\dimen135
 ) (cr-vub.aux)
+\openout1 = `cr-vub.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
@@ -242,33 +264,90 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
- (c:\texmf\tex\context\base\supp-pdf.tex
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen133
+\scratchcounter=\count108
+\scratchdimen=\dimen136
 \scratchbox=\box36
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen134
-\MPnumerator=\count110
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen137
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks22
-) <vublogo.jpg, id=1, 1683.28876pt x 532.99126pt>
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<vublogo.jpg, id=1, 284.262pt x 101.9007pt>
 File: vublogo.jpg Graphic file (type jpg)
  <use vublogo.jpg>
-<iihelogo.jpg, id=2, 170.91855pt x 91.7829pt>
+Package pdftex.def Info: vublogo.jpg used on input line 17.
+(pdftex.def)             Requested size: 158.7432pt x 56.9055pt.
+
+<iihelogo.jpg, id=2, 944.02687pt x 494.59781pt>
 File: iihelogo.jpg Graphic file (type jpg)
- <use iihelogo.jpg> (cr-vub.toc)
+ <use iihelogo.jpg>
+Package pdftex.def Info: iihelogo.jpg used on input line 18.
+(pdftex.def)             Requested size: 108.61122pt x 56.9055pt.
+ (cr-vub.toc)
 \tf@toc=\write3
+\openout3 = `cr-vub.toc'.
 
 [1
 
-{psfonts.map} <C:/nick/tex-extras/tex/latex/misc/vublogo.jpg> <C:/nick/tex-extr
-as/tex/latex/misc/iihelogo.jpg>] (cosrays.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/nick/tex-extras/tex/la
+tex/misc/vublogo.jpg> <C:/nick/tex-extras/tex/latex/misc/iihelogo.jpg>]
+(cosrays.tex
 Cosmic rays
 <cosray.jpg, id=9, 996.72375pt x 1514.65875pt>
 File: cosray.jpg Graphic file (type jpg)
  <use cosray.jpg>
+Package pdftex.def Info: cosray.jpg used on input line 3.
+(pdftex.def)             Requested size: 280.84497pt x 426.79134pt.
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 10.
 
 LaTeX Font Info:    No file OMScmss.fd. on input line 10.
@@ -280,32 +359,57 @@ LaTeX Font Warning: Font shape `OMS/cmss/sbc/n' undefined
 
 [1
 
- <cosray.jpg>] <cr-low-e.png, id=15, 292.9344pt x 340.1508pt>
+ <./cosray.jpg>] <cr-low-e.png, id=15, 292.9344pt x 340.1508pt>
 File: cr-low-e.png Graphic file (type png)
 
-<use cr-low-e.png> [2 <cr-low-e.png>]
-<cr-all-scaled27.png, id=21, 276.5532pt x 238.2501pt>
-File: cr-all-scaled27.png Graphic file (type png)
+<use cr-low-e.png>
+Package pdftex.def Info: cr-low-e.png used on input line 24.
+(pdftex.def)             Requested size: 318.56358pt x 369.88582pt.
+ [2 <./cr-low-e.png>]
+<cr-all-scaled26.png, id=21, 924.45375pt x 689.57625pt>
+File: cr-all-scaled26.png Graphic file (type png)
 
-<use cr-all-scaled27.png>
+<use cr-all-scaled26.png>
+Package pdftex.def Info: cr-all-scaled26.png used on input line 49.
+(pdftex.def)             Requested size: 384.1122pt x 286.51604pt.
+
+Overfull \hbox (8.8437pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+
 Overfull \hbox (5.39569pt too wide) in paragraph at lines 64--65
 [][][][][][] 
  []
 
-[3 <cr-all-scaled27.png>] [4
+[3 <./cr-all-scaled26.png>] [4
 
 ] <crab.jpg, id=29, 217.62816pt x 219.26445pt>
 File: crab.jpg Graphic file (type jpg)
 
-<use crab.jpg> [5
+<use crab.jpg>
+Package pdftex.def Info: crab.jpg used on input line 111.
+(pdftex.def)             Requested size: 423.63268pt x 426.79134pt.
+ [5
 
- <crab.jpg>] <Cas_A.jpg, id=33, 514.0806pt x 514.0806pt>
+ <./crab.jpg>] <Cas_A.jpg, id=33, 514.0806pt x 514.0806pt>
 File: Cas_A.jpg Graphic file (type jpg)
 
-<use Cas_A.jpg> [6 <Cas_A.jpg>]
-File: cr-all-scaled27.png Graphic file (type png)
- <use cr-all-scaled27.png>
+<use Cas_A.jpg>
+Package pdftex.def Info: Cas_A.jpg used on input line 116.
+(pdftex.def)             Requested size: 426.80446pt x 426.79134pt.
+ [6 <./Cas_A.jpg>]
+File: cr-all-scaled26.png Graphic file (type png)
+ <use cr-all-scaled26.png>
+Package pdftex.def Info: cr-all-scaled26.png used on input line 141.
+(pdftex.def)             Requested size: 341.43306pt x 254.68677pt.
+
 Overfull \hbox (16.43965pt too wide) in paragraph at lines 144--145
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (16.46504pt too wide) in paragraph at lines 147--148
 [][][][][][][] 
  []
 
@@ -318,301 +422,595 @@ Possible high-energy sources
 <M87jet.jpg, id=44, 402.50375pt x 342.27875pt>
 File: M87jet.jpg Graphic file (type jpg)
  <use M87jet.jpg>
+Package pdftex.def Info: M87jet.jpg used on input line 5.
+(pdftex.def)             Requested size: 369.88582pt x 314.53989pt.
+
 <grb.jpg, id=45, 60.225pt x 58.7796pt>
 File: grb.jpg Graphic file (type jpg)
  <use grb.jpg>
+Package pdftex.def Info: grb.jpg used on input line 12.
+(pdftex.def)             Requested size: 170.71652pt x 166.6356pt.
+
 <grb2.jpg, id=46, 3513.125pt x 2007.5pt>
 File: grb2.jpg Graphic file (type jpg)
- <use grb2.jpg> [9
+ <use grb2.jpg>
+Package pdftex.def Info: grb2.jpg used on input line 13.
+(pdftex.def)             Requested size: 341.43306pt x 195.09485pt.
+ [9
 
- <M87jet.jpg> <grb.jpg> <grb2.jpg>] <agn-1.png, id=50, 195.129pt x 227.28915pt>
+ <./M87jet.jpg> <./grb.jpg> <./grb2.jpg>] <agn-1.png, id=50, 195.129pt x 227.28
+915pt>
 File: agn-1.png Graphic file (type png)
- <use agn-1.png>
-[10 <agn-1.png (PNG copy)>] <jet.png, id=55, 431.6928pt x 648.5028pt>
+
+<use agn-1.png>
+Package pdftex.def Info: agn-1.png used on input line 43.
+(pdftex.def)             Requested size: 369.88582pt x 430.85504pt.
+ [10 <./agn-1.png>] <jet.png, id=55, 431.6928pt x 648.5028pt>
 File: jet.png Graphic file (type png)
 
-<use jet.png> <grb-engine2.png, id=56, 453.8556pt x 407.6028pt>
+<use jet.png>
+Package pdftex.def Info: jet.png used on input line 49.
+(pdftex.def)             Requested size: 227.28105pt x 341.43306pt.
+ <grb-engine2.png, id=56, 453.8556pt x 407.6028pt>
 File: grb-engine2.png Graphic file (type png)
 
-<use grb-engine2.png>) (gamma-hunt.tex [11 <jet.png (PNG copy)> <grb-engine2.pn
-g (PNG copy)>]
+<use grb-engine2.png>
+Package pdftex.def Info: grb-engine2.png used on input line 58.
+(pdftex.def)             Requested size: 341.43306pt x 306.64049pt.
+) (gamma-hunt.tex [11 <./jet.png> <./grb-engine2.png>]
 Observation of high-energy photons
-<cgro.jpg, id=60, 306.4248pt x 212.9556pt>
-File: cgro.jpg Graphic file (type jpg)
- <use cgro.jpg> [12 <cgro.jpg>]
-<whipple.jpg, id=65, 402.50375pt x 350.30875pt>
-File: whipple.jpg Graphic file (type jpg)
- <use whipple.jpg> [13 <whipple.jpg>] [14
+<cgro2.jpg, id=60, 624.08156pt x 351.56343pt>
+File: cgro2.jpg Graphic file (type jpg)
+ <use cgro2.jpg>
+Package pdftex.def Info: cgro2.jpg used on input line 5.
+(pdftex.def)             Requested size: 384.1122pt x 216.38457pt.
 
-] <batse-109.png, id=72, 569.0058pt x 665.3658pt>
+Overfull \hbox (8.8437pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+[12 <./cgro2.jpg>] <whipple.jpg, id=65, 402.50375pt x 350.30875pt>
+File: whipple.jpg Graphic file (type jpg)
+
+<use whipple.jpg>
+Package pdftex.def Info: whipple.jpg used on input line 34.
+(pdftex.def)             Requested size: 341.43306pt x 297.15448pt.
+ [13 <./whipple.jpg>] [14
+
+]
+<batse-109.png, id=72, 569.0058pt x 665.3658pt>
 File: batse-109.png Graphic file (type png)
  <use batse-109.png>
-[15
+Package pdftex.def Info: batse-109.png used on input line 75.
+(pdftex.def)             Requested size: 340.65944pt x 398.33858pt.
+ [15
 
- <batse-109.png (PNG copy)>]
-<batse-logt90.png, id=76, 569.0058pt x 372.4314pt>
-File: batse-logt90.png Graphic file (type png)
- <use batse-logt90.png>
+ <./batse-109.png>] <GRB-T90.jpg, id=76, 451.6875pt x 322.20375pt>
+File: GRB-T90.jpg Graphic file (type jpg)
+ <use GRB-T90.jpg>
+Package pdftex.def Info: GRB-T90.jpg used on input line 103.
+(pdftex.def)             Requested size: 369.88582pt x 263.86462pt.
+
 [16
 
- <batse-logt90.png (PNG copy)>]
-<grb-shell3.png, id=80, 351.2322pt x 506.8536pt>
+ <./GRB-T90.jpg>] <GRB-phases2.jpg, id=80, 1132.23pt x 913.4125pt>
+File: GRB-phases2.jpg Graphic file (type jpg)
+
+<use GRB-phases2.jpg>
+Package pdftex.def Info: GRB-phases2.jpg used on input line 124.
+(pdftex.def)             Requested size: 476.12076pt x 384.1122pt.
+ [17
+
+ <./GRB-phases2.jpg>]
+<GW-GRB.png, id=84, 820.56563pt x 888.31876pt>
+File: GW-GRB.png Graphic file (type png)
+ <use GW-GRB.png>
+Package pdftex.def Info: GW-GRB.png used on input line 149.
+(pdftex.def)             Requested size: 367.94896pt x 398.33858pt.
+ [18
+
+ <./GW-GRB.png>] <grb-shell3.png, id=89, 351.2322pt x 506.8536pt>
 File: grb-shell3.png Graphic file (type png)
- <use grb-shell3.png> [17
+ <use grb-shell3.png>
+Package pdftex.def Info: grb-shell3.png used on input line 158.
+(pdftex.def)             Requested size: 197.17102pt x 284.52756pt.
 
- <grb-shell3.png (PNG copy)>] <grb-shell1.png, id=84, 351.2322pt x 439.8834pt>
-File: grb-shell1.png Graphic file (type png)
-
-<use grb-shell1.png> <grb-shell2.png, id=85, 351.2322pt x 450.483pt>
-File: grb-shell2.png Graphic file (type png)
-
-<use grb-shell2.png> [18 <grb-shell1.png (PNG copy)> <grb-shell2.png (PNG copy)
->] <grbmap.png, id=90, 525.8847pt x 299.1978pt>
-File: grbmap.png Graphic file (type png)
- <use grbmap.png>
-<batse-loge-z.png, id=91, 698.61pt x 468.75125pt>
-File: batse-loge-z.png Graphic file (type png)
- <use batse-loge-z.png>
 [19
 
- <grbmap.png (PNG copy)> <batse-loge-z.png (PNG copy)>]
-<batse-n-s.png, id=95, 281.853pt x 190.311pt>
-File: batse-n-s.png Graphic file (type png)
- <use batse-n-s.png> [20 <batse-n-s.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 249--251
+ <./grb-shell3.png>] <grb-shell1.png, id=93, 351.2322pt x 439.8834pt>
+File: grb-shell1.png Graphic file (type png)
 
- []
+<use grb-shell1.png>
+Package pdftex.def Info: grb-shell1.png used on input line 191.
+(pdftex.def)             Requested size: 159.02843pt x 199.16928pt.
+ <grb-shell2.png, id=94, 351.2322pt x 450.483pt>
+File: grb-shell2.png Graphic file (type png)
 
+<use grb-shell2.png>
+Package pdftex.def Info: grb-shell2.png used on input line 192.
+(pdftex.def)             Requested size: 155.2876pt x 199.16928pt.
+ [20 <./grb-shell1.png> <./grb-shell2.png>]
+<grbmap.png, id=98, 525.8847pt x 299.1978pt>
+File: grbmap.png Graphic file (type png)
+ <use grbmap.png>
+Package pdftex.def Info: grbmap.png used on input line 216.
+(pdftex.def)             Requested size: 369.88582pt x 210.44597pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--254
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
-
- []
+<batse-loge-z.png, id=99, 698.61pt x 468.75125pt>
+File: batse-loge-z.png Graphic file (type png)
+ <use batse-loge-z.png>
+Package pdftex.def Info: batse-loge-z.png used on input line 229.
+(pdftex.def)             Requested size: 369.88582pt x 248.18663pt.
 
 [21
 
-]) (cr-link.tex
+ <./grbmap.png> <./batse-loge-z.png>]
+<batse-n-s.png, id=103, 281.853pt x 190.311pt>
+File: batse-n-s.png Graphic file (type png)
+ <use batse-n-s.png>
+Package pdftex.def Info: batse-n-s.png used on input line 268.
+(pdftex.def)             Requested size: 369.88582pt x 249.75931pt.
+ [22 <./batse-n-s.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+) (cr-link.tex [23
+
+]
 Link with cosmic rays
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
-[22
+[24
 
-
-] <app.jpg, id=105, 160.1985pt x 91.542pt>
+] <app.jpg, id=114, 160.1985pt x 91.542pt>
 File: app.jpg Graphic file (type jpg)
- <use app.jpg> [23
+ <use app.jpg>
+Package pdftex.def Info: app.jpg used on input line 29.
+(pdftex.def)             Requested size: 647.37282pt x 369.88582pt.
+ [25
 
- <app.jpg>])
-(nu-hunt.tex
+ <./app.jpg>]
+<marek.png, id=118, 1248.665pt x 715.67375pt>
+File: marek.png Graphic file (type png)
+ <use marek.png>
+Package pdftex.def Info: marek.png used on input line 38.
+(pdftex.def)             Requested size: 694.99881pt x 398.33858pt.
+ [26
+
+ <./marek.png>]) (nu-hunt.tex
 Hunting for Cosmic Neutrino sources
 File: grb-engine2.png Graphic file (type png)
-<use grb-engine2.png> [24
+<use grb-engine2.png>
+Package pdftex.def Info: grb-engine2.png used on input line 5.
+(pdftex.def)             Requested size: 369.88582pt x 332.19644pt.
+ <wb-spectrum.png, id=122, 464.73625pt x 338.26375pt>
+File: wb-spectrum.png Graphic file (type png)
+
+<use wb-spectrum.png>
+Package pdftex.def Info: wb-spectrum.png used on input line 25.
+(pdftex.def)             Requested size: 234.55167pt x 170.71652pt.
+ [27
 
 
-] <icecube-collab.jpg, id=113, 513.92pt x 350.5095pt>
-File: icecube-collab.jpg Graphic file (type jpg)
+ <./wb-spectrum.png>]
+<icecube-collab2.jpg, id=126, 154.176pt x 102.8643pt>
+File: icecube-collab2.jpg Graphic file (type jpg)
 
-<use icecube-collab.jpg> [25
+<use icecube-collab2.jpg>
+Package pdftex.def Info: icecube-collab2.jpg used on input line 31.
+(pdftex.def)             Requested size: 639.81131pt x 426.79134pt.
+ [28
 
- <icecube-collab.jpg>]
-<earth-shield.png, id=117, 294.8616pt x 629.2308pt>
+ <./icecube-collab2.jpg>]
+<earth-shield.png, id=130, 294.8616pt x 629.2308pt>
 File: earth-shield.png Graphic file (type png)
  <use earth-shield.png>
-<pole-view.jpg, id=118, 5018.75pt x 2922.92pt>
+Package pdftex.def Info: earth-shield.png used on input line 37.
+(pdftex.def)             Requested size: 186.66362pt x 398.33858pt.
+
+<pole-view.jpg, id=131, 361.35pt x 210.45024pt>
 File: pole-view.jpg Graphic file (type jpg)
- <use pole-view.jpg> [26
+ <use pole-view.jpg>
+Package pdftex.def Info: pole-view.jpg used on input line 38.
+(pdftex.def)             Requested size: 512.1496pt x 298.30513pt.
+ [29
 
- <earth-shield.png (PNG copy)> <pole-view.jpg>]
-<ic86-dc.png, id=122, 224.037pt x 194.4063pt>
+ <./earth-shield.png> <./pole-view.jpg>] <ic86-dc.png, id=135, 224.037pt x 194.
+4063pt>
 File: ic86-dc.png Graphic file (type png)
- <use ic86-dc.png> [27
 
- <ic86-dc.png>] <icetop-snow.png, id=126, 942.52126pt x 710.655pt>
+<use ic86-dc.png>
+Package pdftex.def Info: ic86-dc.png used on input line 45.
+(pdftex.def)             Requested size: 459.12154pt x 398.33858pt.
+ [30
+
+ <./ic86-dc.png>]
+<icetop-snow.png, id=140, 942.52126pt x 710.655pt>
 File: icetop-snow.png Graphic file (type png)
  <use icetop-snow.png>
-[28
-
- <icetop-snow.png (PNG copy)>]
-<cr-shower.jpg, id=130, 301.125pt x 280.04625pt>
-File: cr-shower.jpg Graphic file (type jpg)
- <use cr-shower.jpg> [29
-
- <cr-shower.jpg>] <hole2.jpg, id=134, 531.9875pt x 298.11375pt>
-File: hole2.jpg Graphic file (type jpg)
- <use hole2.jpg>
-[30
-
- <hole2.jpg>] <dom.jpg, id=139, 165.61874pt x 164.11313pt>
-File: dom.jpg Graphic file (type jpg)
- <use dom.jpg>
-<event.jpg, id=140, 198.7425pt x 301.125pt>
-File: event.jpg Graphic file (type jpg)
- <use event.jpg>
-<cone.jpg, id=141, 132.495pt x 131.0496pt>
-File: cone.jpg Graphic file (type jpg)
- <use cone.jpg>
-Overfull \hbox (8.8437pt too wide) in paragraph at lines 81--82
- [] 
- []
+Package pdftex.def Info: icetop-snow.png used on input line 52.
+(pdftex.def)             Requested size: 547.18047pt x 412.56496pt.
 
 [31
 
- <dom.jpg> <event.jpg> <cone.jpg>]
-<moon-shadow1.png, id=145, 1088.065pt x 599.23875pt>
-File: moon-shadow1.png Graphic file (type png)
- <use moon-shadow1.png>
-<moon-shadow2.png, id=146, 585.18625pt x 416.55624pt>
-File: moon-shadow2.png Graphic file (type png)
- <use moon-shadow2.png>
-[32
+ <./icetop-snow.png>] <cr-shower2.png, id=144, 628.3475pt x 476.78125pt>
+File: cr-shower2.png Graphic file (type png)
 
- <moon-shadow1.png> <moon-shadow2.png>]
-<cr-anisotropy.png, id=150, 1056.94875pt x 691.58376pt>
-File: cr-anisotropy.png Graphic file (type png)
+<use cr-shower2.png>
+Package pdftex.def Info: cr-shower2.png used on input line 59.
+(pdftex.def)             Requested size: 524.99907pt x 398.33858pt.
+ [32
 
-<use cr-anisotropy.png> [33 <cr-anisotropy.png (PNG copy)>]
-<ic79+59+40-skymap.png, id=154, 950.55125pt x 667.49374pt>
-File: ic79+59+40-skymap.png Graphic file (type png)
+ <./cr-shower2.png>]
+<hole2.jpg, id=148, 531.9875pt x 298.11375pt>
+File: hole2.jpg Graphic file (type jpg)
+ <use hole2.jpg>
+Package pdftex.def Info: hole2.jpg used on input line 65.
+(pdftex.def)             Requested size: 710.8789pt x 398.33858pt.
+ [33
 
-<use ic79+59+40-skymap.png>) (transients.tex [34
+ <./hole2.jpg>] <dom.jpg, id=152, 165.61874pt x 164.11313pt>
+File: dom.jpg Graphic file (type jpg)
+ <use dom.jpg>
+Package pdftex.def Info: dom.jpg used on input line 71.
+(pdftex.def)             Requested size: 172.28491pt x 170.71652pt.
 
- <ic79+59+40-skymap.png (PNG copy)>]
-Transient cosmic sources
-<atm-bkg.png, id=158, 415.5525pt x 629.35126pt>
-File: atm-bkg.png Graphic file (type png)
- <use atm-bkg.png>
-<ic59+40-eff-area.png, id=159, 924.45375pt x 701.62125pt>
-File: ic59+40-eff-area.png Graphic file (type png)
+<event.jpg, id=153, 198.7425pt x 301.125pt>
+File: event.jpg Graphic file (type jpg)
+ <use event.jpg>
+Package pdftex.def Info: event.jpg used on input line 72.
+(pdftex.def)             Requested size: 131.4555pt x 199.16928pt.
 
-<use ic59+40-eff-area.png> [35
+<cone.jpg, id=154, 132.495pt x 131.0496pt>
+File: cone.jpg Graphic file (type jpg)
+ <use cone.jpg>
+Package pdftex.def Info: cone.jpg used on input line 78.
+(pdftex.def)             Requested size: 384.1122pt x 379.99608pt.
 
- <atm-bkg.png (PNG copy)> <ic59+40-eff-area.png (PNG copy)>] <ic59+40-grb-limit
-2.png, id=163, 722.7pt x 433.62pt>
-File: ic59+40-grb-limit2.png Graphic file (type png)
-
-<use ic59+40-grb-limit2.png>) (diffuse.tex [36
-
- <ic59+40-grb-limit2.png>]
-Search for a diffuse cosmic $\nu $ flux
-<atm-nu.png, id=169, 612.2875pt x 428.60126pt>
-File: atm-nu.png Graphic file (type png)
- <use atm-nu.png> [37
-
- <atm-nu.png (PNG copy)>] <bert.png, id=173, 772.8875pt x 705.63625pt>
-File: bert.png Graphic file (type png)
- <use bert.png>
-<ernie.png, id=174, 773.89125pt x 704.6325pt>
-File: ernie.png Graphic file (type png)
- <use ernie.png> [38 <bert.png> <ernie.png>] <veto.png, id=178, 1118.1775pt x 5
-92.2125pt>
-File: veto.png Graphic file (type png)
- <use veto.png> [39
-
- <veto.png (PNG copy)>] <kermit.png, id=182, 769.87625pt x 705.63625pt>
-File: kermit.png Graphic file (type png)
-
-<use kermit.png> <miss-piggy.png, id=183, 771.88374pt x 704.6325pt>
-File: miss-piggy.png Graphic file (type png)
-
-<use miss-piggy.png> [40
-
- <kermit.png> <miss-piggy.png>]
-<dr-strangepork.png, id=187, 770.88pt x 704.6325pt>
-File: dr-strangepork.png Graphic file (type png)
- <use dr-strangepork.png>
-<gonzo-the-great.png, id=188, 771.88374pt x 705.63625pt>
-File: gonzo-the-great.png Graphic file (type png)
-
-<use gonzo-the-great.png> [41
-
- <dr-strangepork.png> <gonzo-the-great.png>]
-<big-bird.png, id=192, 652.4375pt x 598.235pt>
-File: big-bird.png Graphic file (type png)
- <use big-bird.png>
-<big-bird-photo.jpg, id=193, 1505.625pt x 2035.605pt>
-File: big-bird-photo.jpg Graphic file (type jpg)
- <use big-bird-photo.jpg>
-[42
-
- <big-bird.png (PNG copy)> <big-bird-photo.jpg>]
-<hese-e.png, id=198, 1142.2675pt x 791.95876pt>
-File: hese-e.png Graphic file (type png)
- <use hese-e.png>
-<hese-decl-vs-e.png, id=199, 1096.095pt x 731.73375pt>
-File: hese-decl-vs-e.png Graphic file (type png)
-
-<use hese-decl-vs-e.png>
-Overfull \hbox (12.0658pt too wide) in paragraph at lines 113--115
-[] [] 
+Overfull \hbox (8.8437pt too wide) in paragraph at lines 78--79
+ [] 
  []
 
-[43
+[34
 
- <hese-e.png (PNG copy)> <hese-decl-vs-e.png (PNG copy)>]
-<breakthrough.png, id=203, 485.1726pt x 529.4982pt>
+ <./dom.jpg> <./event.jpg> <./cone.jpg>]
+<moon-shadow1.png, id=158, 1088.065pt x 599.23875pt>
+File: moon-shadow1.png Graphic file (type png)
+ <use moon-shadow1.png>
+Package pdftex.def Info: moon-shadow1.png used on input line 86.
+(pdftex.def)             Requested size: 413.30298pt x 227.62204pt.
+
+<moon-shadow2.png, id=159, 585.18625pt x 416.55624pt>
+File: moon-shadow2.png Graphic file (type png)
+ <use moon-shadow2.png>
+Package pdftex.def Info: moon-shadow2.png used on input line 87.
+(pdftex.def)             Requested size: 319.77292pt x 227.62204pt.
+
+[35
+
+ <./moon-shadow1.png> <./moon-shadow2.png>]
+<icecube-skymap-7years.png, id=163, 1124.2pt x 761.84625pt>
+File: icecube-skymap-7years.png Graphic file (type png)
+
+<use icecube-skymap-7years.png>
+Package pdftex.def Info: icecube-skymap-7years.png used on input line 95.
+(pdftex.def)             Requested size: 545.80243pt x 369.88582pt.
+) (transients.tex [36
+
+ <./icecube-skymap-7years.png>]
+Transient cosmic sources
+<atm-bkg.png, id=168, 415.5525pt x 629.35126pt>
+File: atm-bkg.png Graphic file (type png)
+ <use atm-bkg.png>
+Package pdftex.def Info: atm-bkg.png used on input line 4.
+(pdftex.def)             Requested size: 281.80472pt x 426.79134pt.
+
+<ic59+40-eff-area.png, id=169, 924.45375pt x 701.62125pt>
+File: ic59+40-eff-area.png Graphic file (type png)
+
+<use ic59+40-eff-area.png>
+Package pdftex.def Info: ic59+40-eff-area.png used on input line 18.
+(pdftex.def)             Requested size: 356.14854pt x 270.30118pt.
+ [37
+
+ <./atm-bkg.png> <./ic59+40-eff-area.png>]
+File: atm-bkg.png Graphic file (type png)
+
+<use atm-bkg.png>
+Package pdftex.def Info: atm-bkg.png used on input line 24.
+(pdftex.def)             Requested size: 281.80472pt x 426.79134pt.
+ <ic-grb-limit-prompt.png, id=173, 1096.095pt x 766.865pt>
+File: ic-grb-limit-prompt.png Graphic file (type png)
+
+<use ic-grb-limit-prompt.png>
+Package pdftex.def Info: ic-grb-limit-prompt.png used on input line 32.
+(pdftex.def)             Requested size: 369.88582pt x 258.78822pt.
+) (diffuse.tex [38
+
+ <./ic-grb-limit-prompt.png>]
+Search for a diffuse cosmic $\nu $ flux
+<atm-nu2.png, id=177, 547.04375pt x 645.41125pt>
+File: atm-nu2.png Graphic file (type png)
+ <use atm-nu2.png>
+Package pdftex.def Info: atm-nu2.png used on input line 23.
+(pdftex.def)             Requested size: 337.62773pt x 398.33858pt.
+ [39
+
+ <./atm-nu2.png>] <bert.png, id=181, 772.8875pt x 705.63625pt>
+File: bert.png Graphic file (type png)
+ <use bert.png>
+Package pdftex.def Info: bert.png used on input line 29.
+(pdftex.def)             Requested size: 369.88582pt x 337.70021pt.
+
+<ernie.png, id=182, 773.89125pt x 704.6325pt>
+File: ernie.png Graphic file (type png)
+ <use ernie.png>
+Package pdftex.def Info: ernie.png used on input line 38.
+(pdftex.def)             Requested size: 369.88582pt x 336.77902pt.
+ [40 <./bert.png> <./ernie.png>] <veto.png, id=186, 1118.1775pt x 592.2125pt>
+File: veto.png Graphic file (type png)
+ <use veto.png>
+Package pdftex.def Info: veto.png used on input line 56.
+(pdftex.def)             Requested size: 537.23097pt x 284.52756pt.
+
+[41
+
+ <./veto.png>] <kermit.png, id=190, 769.87625pt x 705.63625pt>
+File: kermit.png Graphic file (type png)
+
+<use kermit.png>
+Package pdftex.def Info: kermit.png used on input line 63.
+(pdftex.def)             Requested size: 369.88582pt x 339.02457pt.
+ <miss-piggy.png, id=191, 771.88374pt x 704.6325pt>
+File: miss-piggy.png Graphic file (type png)
+
+<use miss-piggy.png>
+Package pdftex.def Info: miss-piggy.png used on input line 69.
+(pdftex.def)             Requested size: 369.88582pt x 337.66068pt.
+ [42
+
+ <./kermit.png> <./miss-piggy.png>]
+<dr-strangepork.png, id=196, 770.88pt x 704.6325pt>
+File: dr-strangepork.png Graphic file (type png)
+ <use dr-strangepork.png>
+Package pdftex.def Info: dr-strangepork.png used on input line 76.
+(pdftex.def)             Requested size: 369.88582pt x 338.09074pt.
+
+<gonzo-the-great.png, id=197, 771.88374pt x 705.63625pt>
+File: gonzo-the-great.png Graphic file (type png)
+
+<use gonzo-the-great.png>
+Package pdftex.def Info: gonzo-the-great.png used on input line 82.
+(pdftex.def)             Requested size: 369.88582pt x 338.14166pt.
+ [43
+
+ <./dr-strangepork.png> <./gonzo-the-great.png>]
+<breakthrough.png, id=201, 485.1726pt x 529.4982pt>
 File: breakthrough.png Graphic file (type png)
  <use breakthrough.png>
+Package pdftex.def Info: breakthrough.png used on input line 88.
+(pdftex.def)             Requested size: 391.07765pt x 426.79134pt.
+
 [44
 
- <breakthrough.png (PNG copy)>]
-<mese.png, id=207, 1142.2675pt x 422.57875pt>
-File: mese.png Graphic file (type png)
- <use mese.png> [45
+ <./breakthrough.png>] <hese-e-6yr.png, id=205, 666.49pt x 628.3475pt>
+File: hese-e-6yr.png Graphic file (type png)
 
- <mese.png (PNG copy)>] <hese-skymap-gal.png, id=211, 1110.1475pt x 655.44875pt
->
-File: hese-skymap-gal.png Graphic file (type png)
+<use hese-e-6yr.png>
+Package pdftex.def Info: hese-e-6yr.png used on input line 95.
+(pdftex.def)             Requested size: 331.97295pt x 312.9803pt.
+ <hese-decl-6yr.png, id=206, 624.3325pt x 637.38126pt>
+File: hese-decl-6yr.png Graphic file (type png)
 
-<use hese-skymap-gal.png> [46
+<use hese-decl-6yr.png>
+Package pdftex.def Info: hese-decl-6yr.png used on input line 96.
+(pdftex.def)             Requested size: 306.57341pt x 312.9803pt.
+ [45
 
- <hese-skymap-gal.png (PNG copy)>]
-File: cr-anisotropy.png Graphic file (type png)
+ <./hese-e-6yr.png> <./hese-decl-6yr.png>]
+<hese-skymap-gal-6yr.png, id=210, 817.0525pt x 489.83pt>
+File: hese-skymap-gal-6yr.png Graphic file (type png)
 
-<use cr-anisotropy.png>
-<hese-skymap-equ.png, id=215, 1137.24875pt x 670.505pt>
-File: hese-skymap-equ.png Graphic file (type png)
+<use hese-skymap-gal-6yr.png>
+Package pdftex.def Info: hese-skymap-gal-6yr.png used on input line 106.
+(pdftex.def)             Requested size: 617.0018pt x 369.88582pt.
+ [46
 
-<use hese-skymap-equ.png>) (outlook.tex [47
+ <./hese-skymap-gal-6yr.png>]
+<multi-pev-muon.png, id=214, 615.29875pt x 655.44875pt>
+File: multi-pev-muon.png Graphic file (type png)
 
- <hese-skymap-equ.png (PNG copy)>]
-Outlook for Astroparticle Physics
-<muppets.jpg, id=219, 1027.84pt x 770.88pt>
+<use multi-pev-muon.png>
+Package pdftex.def Info: multi-pev-muon.png used on input line 115.
+(pdftex.def)             Requested size: 347.23134pt x 369.88582pt.
+) (nu-gamma.tex [47
+
+ <./multi-pev-muon.png>]
+The Neutrino-Gamma connection
+<Fermi-IC-CR.png, id=218, 959.585pt x 677.53125pt>
+File: Fermi-IC-CR.png Graphic file (type png)
+ <use Fermi-IC-CR.png>
+Package pdftex.def Info: Fermi-IC-CR.png used on input line 4.
+(pdftex.def)             Requested size: 483.58362pt x 341.43306pt.
+
+[48
+
+ <./Fermi-IC-CR.png>] <IC160427A.png, id=223, 1052.93375pt x 681.54625pt>
+File: IC160427A.png Graphic file (type png)
+
+<use IC160427A.png>
+Package pdftex.def Info: IC160427A.png used on input line 18.
+(pdftex.def)             Requested size: 615.40948pt x 398.33858pt.
+ [49
+
+ <./IC160427A.png>]
+<HESE35.png, id=227, 1026.83624pt x 657.45625pt>
+File: HESE35.png Graphic file (type png)
+ <use HESE35.png>
+Package pdftex.def Info: HESE35.png used on input line 25.
+(pdftex.def)             Requested size: 622.13878pt x 398.33858pt.
+ [50
+
+ <./HESE35.png>] [51
+
+] <IC170922A-event.png, id=234, 975.645pt x 498.86375pt>
+File: IC170922A-event.png Graphic file (type png)
+
+<use IC170922A-event.png>
+Package pdftex.def Info: IC170922A-event.png used on input line 40.
+(pdftex.def)             Requested size: 667.77687pt x 341.43306pt.
+) (result.tex [52 <./IC170922A-event.png>]
+<IC170922A.png, id=238, 849.1725pt x 705.63625pt>
+File: IC170922A.png Graphic file (type png)
+ <use IC170922A.png>
+Package pdftex.def Info: IC170922A.png used on input line 5.
+(pdftex.def)             Requested size: 479.36873pt x 398.33858pt.
+ [53
+
+ <./IC170922A.png>] <IC170922A-area.png, id=242, 739.76375pt x 727.71875pt>
+File: IC170922A-area.png Graphic file (type png)
+
+<use IC170922A-area.png>
+Package pdftex.def Info: IC170922A-area.png used on input line 10.
+(pdftex.def)             Requested size: 384.1122pt x 377.86072pt.
+
+Overfull \hbox (8.8437pt too wide) in paragraph at lines 10--11
+[][] 
+ []
+
+[54
+
+ <./IC170922A-area.png>] [55
+
+]
+<IC-archival-dataset.png, id=250, 938.50626pt x 502.87875pt>
+File: IC-archival-dataset.png Graphic file (type png)
+
+<use IC-archival-dataset.png>
+Package pdftex.def Info: IC-archival-dataset.png used on input line 53.
+(pdftex.def)             Requested size: 637.20203pt x 341.43306pt.
+ [56
+
+ <./IC-archival-dataset.png>]
+<txs-time-dependent.png, id=254, 1035.87pt x 256.96pt>
+File: txs-time-dependent.png Graphic file (type png)
+
+<use txs-time-dependent.png>
+Package pdftex.def Info: txs-time-dependent.png used on input line 73.
+(pdftex.def)             Requested size: 739.77165pt x 183.5172pt.
+ [57
+
+ <./txs-time-dependent.png>]
+<txs-time-dependent-IC86b.png, id=258, 1024.82875pt x 378.41376pt>
+File: txs-time-dependent-IC86b.png Graphic file (type png)
+
+<use txs-time-dependent-IC86b.png>
+Package pdftex.def Info: txs-time-dependent-IC86b.png used on input line 81.
+(pdftex.def)             Requested size: 682.86613pt x 252.14433pt.
+ [58
+
+ <./txs-time-dependent-IC86b.png>]
+<IC170922A-Fermi.png, id=262, 1277.77374pt x 396.48125pt>
+File: IC170922A-Fermi.png Graphic file (type png)
+
+<use IC170922A-Fermi.png>
+Package pdftex.def Info: IC170922A-Fermi.png used on input line 95.
+(pdftex.def)             Requested size: 711.3189pt x 220.71516pt.
+ [59
+
+ <./IC170922A-Fermi.png>]
+<txs-mw-lightcurves.png, id=266, 1245.65375pt x 642.4pt>
+File: txs-mw-lightcurves.png Graphic file (type png)
+
+<use txs-mw-lightcurves.png>
+Package pdftex.def Info: txs-mw-lightcurves.png used on input line 103.
+(pdftex.def)             Requested size: 739.77165pt x 381.51228pt.
+ [60
+
+ <./txs-mw-lightcurves.png>]
+<Fermi-IC.png, id=271, 508.0581pt x 400.6167pt>
+File: Fermi-IC.png Graphic file (type png)
+ <use Fermi-IC.png>
+Package pdftex.def Info: Fermi-IC.png used on input line 129.
+(pdftex.def)             Requested size: 369.88582pt x 291.67752pt.
+)
+(outlook.tex [61
+
+ <./Fermi-IC.png>]
+<radar.png, id=275, 917.4275pt x 637.38126pt>
+File: radar.png Graphic file (type png)
+ <use radar.png>
+Package pdftex.def Info: radar.png used on input line 24.
+(pdftex.def)             Requested size: 369.88582pt x 256.98064pt.
+ [62
+
+ <./radar.png>] <icecube-gen2.jpg, id=279, 1284.8pt x 779.91376pt>
+File: icecube-gen2.jpg Graphic file (type jpg)
+ <use icecube-gen2.jpg>
+Package pdftex.def Info: icecube-gen2.jpg used on input line 33.
+(pdftex.def)             Requested size: 703.07419pt x 426.79134pt.
+
+[63
+
+ <./icecube-gen2.jpg>] <IC-timeline.jpg, id=283, 462.528pt x 260.172pt>
+File: IC-timeline.jpg Graphic file (type jpg)
+
+<use IC-timeline.jpg>
+Package pdftex.def Info: IC-timeline.jpg used on input line 40.
+(pdftex.def)             Requested size: 739.77165pt x 416.14471pt.
+ [64
+
+ <./IC-timeline.jpg>]
+<muppets.jpg, id=287, 1027.84pt x 770.88pt>
 File: muppets.jpg Graphic file (type jpg)
- <use muppets.jpg>) [48
+ <use muppets.jpg>
+Package pdftex.def Info: muppets.jpg used on input line 47.
+(pdftex.def)             Requested size: 512.1496pt x 384.10988pt.
+) [65
 
- <muppets.jpg>] (cr-vub.aux)
+ <./muppets.jpg>] (cr-vub.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3149 strings out of 95282
- 34395 string characters out of 1185182
- 86214 words of memory out of 1085818
- 5926 multiletter control sequences out of 60000
- 23027 words of font info for 91 fonts, out of 1000000 for 2000
- 14 hyphenation exceptions out of 8191
- 43i,16n,45p,220b,296s stack positions out of 5000i,500n,10000p,200000b,32768s
-<c:/texmf/fonts/type1/bluesky/cm/cmbsy10.pfb><c:/texmf/fonts/type1/bluesky/cm
-/cmbx12.pfb><c:/texmf/fonts/type1/bluesky/cm/cmex10.pfb><c:/texmf/fonts/type1/b
-luesky/cm/cmmib10.pfb><c:/texmf/fonts/type1/bluesky/cm/cmssbx10.pfb><c:/texmf/f
-onts/type1/bluesky/cm/cmssdc10.pfb><c:/texmf/fonts/type1/bluesky/cm/cmsy10.pfb>
-<c:/texmf/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on cr-vub.pdf (49 pages, 10240090 bytes).
+ 3609 strings out of 493333
+ 47776 string characters out of 3139150
+ 112905 words of memory out of 3000000
+ 6934 multiletter control sequences out of 15000+200000
+ 23018 words of font info for 91 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,16n,45p,234b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmssdc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zap
+fding/uzdr.pfb>
+Output written on cr-vub.pdf (66 pages, 13511609 bytes).
 PDF statistics:
- 252 PDF objects out of 300000 (max. 8388607)
- 0 named destinations out of 300000 (max. 131072)
- 291 words of extra memory for PDF output out of 65536 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
 

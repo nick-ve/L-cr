@@ -1,8 +1,8 @@
 \contentsline {section}{Cosmic rays\vspace *{-10mm}}{1}
 \contentsline {section}{Possible high-energy sources\vspace *{-10mm}}{9}
 \contentsline {section}{Observation of high-energy photons\vspace *{-10mm}}{12}
-\contentsline {section}{Link with cosmic rays\vspace *{-10mm}}{22}
-\contentsline {section}{Hunting for Cosmic Neutrino sources\vspace *{-10mm}}{24}
-\contentsline {section}{Transient cosmic sources\vspace *{-10mm}}{35}
-\contentsline {section}{Search for a diffuse cosmic $\nu $ flux\vspace *{-10mm}}{37}
-\contentsline {section}{Outlook for Astroparticle Physics\vspace *{-10mm}}{48}
+\contentsline {section}{Link with cosmic rays\vspace *{-10mm}}{24}
+\contentsline {section}{Hunting for Cosmic Neutrino sources\vspace *{-10mm}}{27}
+\contentsline {section}{Transient cosmic sources\vspace *{-10mm}}{37}
+\contentsline {section}{Search for a diffuse cosmic $\nu $ flux\vspace *{-10mm}}{39}
+\contentsline {section}{The Neutrino-Gamma connection\vspace *{-10mm}}{48}
